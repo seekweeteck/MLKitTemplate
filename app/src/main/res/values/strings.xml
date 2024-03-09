@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MLKit Demo</string>
+    <string name="send">Send</string>
+    <string name="reply">Reply</string>
+    <string name="hint_message">Enter text here</string>
+    <string name="error_not_supported_language">A non-English language was
+      detected, therefore no replies were generated.</string>
+    <string name="error_no_reply">Success! But no appropriate replies were generated.</string>
+</resources>
